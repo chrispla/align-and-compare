@@ -1,2 +1,2 @@
-# align_and_compare
-Code for "Utilizing Hierarchical Structure for Audio-Based Music Similarity" Late-Break Demo on ISMIR 2021
+## Utilizing Hierarchical Structure for Audio-Based Music Similarity
+Code for Late-Break Demo on ISMIR 2021
