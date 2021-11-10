@@ -20,5 +20,5 @@ For simplicity, I decided to add everything to the `align-and-compare.ipynb` not
 
 ### Notes
 
-This is an ongoing work, and more things will be and have been developed since the submition of the paper. This repository is meant for the demonstration of the concepts mentioned in the paper above. Please feel free to reach out to me about any aspects of this project.
+This is an ongoing work, and more things will be and have been developed since the submission of the paper. This repository is meant for the demonstration of the concepts mentioned in the paper. Please feel free to reach out to me about any aspects of this project.
 
