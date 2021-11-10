@@ -132,12 +132,7 @@ dmypy.json
 .ipynb_checkpoints
 
 # vs code
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-**/.history
+.vscode/
 
 # macos
 .DS_Store
